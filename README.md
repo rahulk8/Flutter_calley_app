@@ -1,3 +1,7 @@
+A calling app made using Flutter SDK. API for Sign-up, Sign-in  & List for call analytics is implemented in the app.
+
+Here are Screens below of the app : 
+
 ![1](https://github.com/user-attachments/assets/c4988bb6-7944-45cb-8d93-778e29b2208f)
 
 ![2](https://github.com/user-attachments/assets/c4ef1313-bb68-4573-b225-2b322036eab7)
@@ -35,4 +39,3 @@
 
 
 
-A calling app made using Flutter SDK. API for Sign-up, Sign-in  & List for call analytics is implemented in the app.
